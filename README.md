@@ -2,9 +2,9 @@
 The goal of this project is to simulate an internal security audit of a fictitious company "Botium Toys". The project will be broken up into several documents, each including different parts of an internal security audit. Below in this ReadMe is both a Scenario description as well as an overview of the Scope and Goals of this particular audit.
 
 
-  - Controls Assessment
-  - Compliance Checklist
-  - Stakeholder Memorandum
+  - [Controls Assessment](https://github.com/JacobDKing/InternalAuditTest/blob/main/Controls%20assessment.pdf)
+  - [Compliance Checklist](https://github.com/JacobDKing/InternalAuditTest/blob/main/Compliance%20checklist.pdf)
+  - [Stakeholder Memorandum](https://github.com/JacobDKing/InternalAuditTest/blob/main/Stakeholder%20memorandum.pdf)
     
 <br />
 <br />
